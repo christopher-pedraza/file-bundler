@@ -1,0 +1,5 @@
+[Desktop Entry]
+Type=Application
+Name=File Combiner
+Exec=/path/to/your/repo/CombineFiles.sh %F
+Terminal=true
